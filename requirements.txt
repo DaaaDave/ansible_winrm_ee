@@ -1,2 +1,8 @@
 pypsexec
 urllib3
+
+
+# for vmware
+
+pyvmomi
+git+https://github.com/vmware/vsphere-automation-sdk-python.git
